@@ -33,6 +33,8 @@ Uma parte fundamental da programação é garantir que sua função funcione cor
 
 Por exemplo, um teste unitário pode ser:
 
+```ruby
 python
 def test_encryptThis():
     assert encryptThis("Hello") == '72olle'  # Teste para palavra de cinco letras
+```
